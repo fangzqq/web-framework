@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# pycharm config
+./idea
+
+# vsoce config
+./vscode
+
